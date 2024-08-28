@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UpTonight
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Observatory: Backyard
+ - Location: -46.42 deg, -23.08 deg, 780.00 m
+
+Observation timespan: 08/27 19:09 to 08/28 05:03 in astronomical darkness
+Moon illumination: 34%
+Contraints: Altitude constraint minimum: 30°, maximum: 80°, Airmass constraint: 2, Moon separation constraint: 34°, Size constraint minimum: 5', maximum: 300'
+Altitude and Azimuth calculated for 08/27 19:09
+
+               target name                    hmsdms right ascension declination altitude azimuth    meridian transit antimeridian transit                 type    constellation  size mag foto
+-------------------------- ------------------------- --------------- ----------- -------- ------- ------------------- -------------------- -------------------- ---------------- ----- --- ----
+NGC 7293 (--, 16.33', 7.3) 22h29m38.57s -20d50m14.4s           337.5       -20.8     21.2   104.3 08/28/2024 00:09:20                          Planetary Nebula         Aquarius  16.3 7.3  0.7
+  NGC 6727 (--, 80.0', --) 19h01m42.27s -36d52m34.5s           285.5       -36.9     65.8   129.9 08/27/2024 20:42:16                         Reflection Nebula Corona Australis  80.0 0.0  0.6
+  NGC 6729 (--, 25.0', --)  19h01m55.4s -36d57m27.5s           285.5       -37.0     65.7   130.0 08/27/2024 20:42:29                                    Nebula Corona Australis  25.0 0.0  0.6
+   NGC 6726 (--, 9.0', --)  19h01m39.3s -36d53m28.7s           285.5       -36.9     65.8   129.9 08/27/2024 20:42:13                         Reflection Nebula Corona Australis   9.0 0.0  0.6
+  NGC 6853 (--, 6.7', 7.4) 19h59m36.38s +22d43m15.7s           300.0        22.7     31.4    41.1 08/27/2024 21:39:24                          Planetary Nebula        Vulpecula   6.7 7.4  0.5
+NGC 6611 (--, 120.0', 6.0)   18h18m48.17s -13d48m26s           274.8       -13.8     75.1    53.8 08/27/2024 19:59:11                                    Nebula              Se2 120.0 6.0  0.5
+  NGC 6823 (--, 6.0', 7.1) 19h43m09.89s +23d17m59.8s           295.8        23.3     33.4    37.2 08/27/2024 21:23:00                      Cl+N Emission Nebula        Vulpecula   6.0 7.1  0.5
