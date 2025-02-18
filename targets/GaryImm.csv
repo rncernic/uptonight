@@ -28,7 +28,7 @@ G100.4+04.6,PM 1-333,Planetary Nebula,Cepheus,1.0,21 40 00,58 59 00,
 Hickson 61,The Box,Galaxy Group,Coma Berenices,3.8,12 12 24,29 10 40,
 HP Tau,V1025 Tau,Variable Star,Taurus,3.0,04 35 54,22 54 14,14.9
 IC 1318,Gamma Cygni Nebula,Emission Nebula,Cygnus,240.0,20 23 14,40 15 24,
-IC 1396,Elephant's Trunk,Dark Nebula,Cepheus,60.0,21 38 58,+57 29 21,
+IC 1396,Elephants Trunk,Dark Nebula,Cepheus,60.0,21 38 58,+57 29 21,
 IC 1795,Fishhead Nebula,Emission Nebula,Cassiopeia,30.0,02 26 32,62 02 39,
 IC 1805,Heart Nebula,Emission Nebula,Cassiopeia,120.0,02 32 47,61 28 30,
 IC 1848,Soul Nebula,Emission Nebula,Cassiopeia,1.8,02 51 18,60 24 30,6.5
@@ -81,14 +81,14 @@ M 65,Leo Galaxy Duo,Galaxy,Leo,35.0,11 18 56,+13 05 31,
 M 76,Little Dumbbell Nebula,Planetary Nebula,Perseus,2.0,01 42 18,+51 34 15,17.5
 M 78,Casper Nebula,Reflection Nebula,Orion,8.0,05 46 45,00 04 48,
 M 8,Lagoon Nebula,Emission Nebula,Sagittarius,100.0,18 03 41,-24 22 48,
-M 81,Bode's Galaxy,Galaxy,Ursa Major,27.0,09 55 33,69 03 56,6.9
+M 81,Bodes Galaxy,Galaxy,Ursa Major,27.0,09 55 33,69 03 56,6.9
 M 82,Cigar Galaxy,Galaxy,Ursa Major,10.0,09 55 53,69 40 50,8.4
 M 83,Southern Pinwheel Galaxy,Galaxy,Hydra,13.0,13 37 00,-29 51 51,7.5
-M 86,Markarian's Chain,Galaxy,Virgo,60.0,12 26 12,+12 56 46,8.9
-M 94,Croc's Eye or Cat's Eye Galaxy,Galaxy,Canes Venatici,11.0,12 50 53,41 07 12,8.2
+M 86,Markarians Chain,Galaxy,Virgo,60.0,12 26 12,+12 56 46,8.9
+M 94,Crocs Eye or Cat's Eye Galaxy,Galaxy,Canes Venatici,11.0,12 50 53,41 07 12,8.2
 M 97,Owl Nebula,Planetary Nebula,Ursa Major,3.0,11 14 48,+55 01 08,15.8
 M 99,St. Catherine's Wheel Galaxy,Galaxy,Coma Berenices,5.0,12 18 50,14 25 01,9.9
-Markarian's Chain,M 86 or M 84,Galaxy,Virgo,90.0,12 26 13,12 56 46,
+Markarians Chain,M 86 or M 84,Galaxy,Virgo,90.0,12 26 13,12 56 46,
 NGC 1097,NGC 1097,Galaxy,Fornax,9.3,02 46 19,-30 16 29,9.5
 NGC 1333,Embryo Nebula,Reflection Nebula,Perseus,100.0,03 29 20,31 24 56,
 NGC 1360,Robins Egg Nebula,Planetary Nebula,Fornax,6.0,03 33 15,-25 52 19,11.2
@@ -110,16 +110,16 @@ NGC 2170,Angel Nebula,Reflection Nebula,Monoceros,110.0,06 07 32,-06 23 57,
 NGC 2174,Monkey Head Nebula,Emission Nebula,Orion,40.0,06 09 24,20 39 34,
 NGC 2237,Rosette Nebula,Emission Nebula,Monoceros,80.0,06 30 54,05 03 00,
 NGC 2245,Ced80 Nebula,Reflection Nebula,Monoceros,40.0,06 32 41,10 09 24,
-NGC 2261,Hubble's Variable Nebula,Reflection Nebula,Monoceros,2.0,06 39 10,08 44 40,11.9
+NGC 2261,Hubbles Variable Nebula,Reflection Nebula,Monoceros,2.0,06 39 10,08 44 40,11.9
 NGC 2264,Christmas Tree Cluster or Cone Nebula,Emission Nebula,Monoceros,120.0,06 40 58,09 53 42,
 NGC 2327,Seagull Nebula,Emission Nebula,Canis Major,170.0,07 04 07,-11 18 50,
-NGC 2359,Thor’s Helmet or Duck Nebula,Wolf-Rayet Nebula,Canis Major,10.0,07 18 30,-13 13 36,
+NGC 2359,Thors Helmet or Duck Nebula,Wolf-Rayet Nebula,Canis Major,10.0,07 18 30,-13 13 36,
 NGC 2371,Double Bubble,Planetary Nebula,Gemini,2.1,07 25 34,29 29 17,13.5
 NGC 2392,Eskimo or Clown Nebula,Planetary Nebula,Gemini,0.8,07 29 11,20 54 42,9.7
 NGC 246,Skull Nebula,Planetary Nebula,Cetus,4.0,00 47 03,-11 52 19,11.8
 NGC 2467,Skull and Crossbones Nebula,Emission Nebula,Puppis,50.0,07 52 26,-26 26 12,
 NGC 253,Sculptor Galaxy,Galaxy,Sculptor,25.0,00 47 33,-25 17 18,
-NGC 2736,Herschel's Ray or Pencil Nebula,Supernova Remnant,Vela,40.0,09 00 16,-45 56 54,
+NGC 2736,Herschels Ray or Pencil Nebula,Supernova Remnant,Vela,40.0,09 00 16,-45 56 54,
 NGC 281,PacMan Nebula,Emission Nebula,Cassiopeia,35.0,00 52 54,56 37 29,
 NGC 3132,Eight Burst Nebula,Planetary Nebula,Vela,0.8,10 07 02,-40 26 11,10.0
 NGC 3242,Ghost of Jupiter or CBS Eye Nebula,Planetary Nebula,Hydra,0.75,10 24 46,-18 38 34,12.1
@@ -128,7 +128,7 @@ NGC 3628,Hamburger Galaxy,Galaxy,Leo,15.0,11 20 17,+13 35 19,9.5
 NGC 3718,Arp 214,Galaxy,Ursa Major,8.7,11 32 35,53 04 04,10.6
 NGC 40,BowTie Nebula,Planetary Nebula,Cepheus,1.0,00 13 01,72 31 19,11.5
 NGC 457,ET or Owl or Dragonfly Cluster,Open Cluster,Cassiopeia,13.0,01 19 35,58 17 12,6.4
-NGC 4631,Whale & Hockey Stick Galaxy Duo,Galaxy,Canes Venatici,40.0,12 42 08,+32 32 29,9.2
+NGC 4631,Whale and Hockey Stick Galaxy Duo,Galaxy,Canes Venatici,40.0,12 42 08,+32 32 29,9.2
 NGC 4725,Ringed Galaxy,Galaxy,Coma Berenices,11.0,12 50 27,+25 30 03,12.4
 NGC 5033,Crab Galaxy,Galaxy,Canes Venatici,11.0,13 13 28,36 35 38,12.0
 NGC 5128,Centaurus A,Galaxy,Centaurus,18.0,13 25 28,-43 01 08,6.8
@@ -138,11 +138,11 @@ NGC 5907,Splinter Galaxy,Galaxy,Draco,12.0,15 15 54,56 19 45,
 NGC 5982,Draco Galaxy Trio,Galaxy,Draco,2.9,15 38 40,59 21 21,
 NGC 6188,Dragons of Ara or Rim Nebula,Emission Nebula,Ara,30.0,16 40 05,-48 39 42,
 NGC 6302,Butterfly Nebula,Planetary Nebula,Scorpius,3.0,17 13 44,-37 06 12,
-NGC 6334,Cat's Paw Nebula,Emission Nebula,Scorpius,60.0,17 20 49,-36 06 12,
+NGC 6334,Cats Paw Nebula,Emission Nebula,Scorpius,60.0,17 20 49,-36 06 12,
 NGC 6337,Cheerio,Planetary Nebula,Scorpius,2.0,17 22 16,-38 29 00,12.0
 NGC 6357,Lobster or War and Peace Nebula,Wolf-Rayet Nebula,Scorpius,50.0,17 24 43,-34 12 06,
 NGC 6520,NGC 6520,Open Cluster,Sagittarius,6.0,18 03 24,-27 53 18,7.6
-NGC 6543,Cat's Eye Nebula,Planetary Nebula,Draco,8.0,17 58 33,+66 37 59,11.3
+NGC 6543,Cats Eye Nebula,Planetary Nebula,Draco,8.0,17 58 33,+66 37 59,11.3
 NGC 660,Polar Ring Galaxy,Galaxy,Pisces,9.1,01 43 02,13 38 39,11.2
 NGC 6726,Anteater Neb. or Bernes 157,Reflection Nebula,Corona Australis,9.0,19 01 38,-36 53 30,
 NGC 6781,Snowglobe Nebula or Ghost of the Moon,Planetary Nebula,Aquila,2.0,19 18 28,06 32 20,11.8
@@ -151,8 +151,8 @@ NGC 6826,The Blinking Eye,Planetary Nebula,Cygnus,2.3,19 44 48,+50 31 30,9.4
 NGC 6888,Crescent Nebula,Wolf-Rayet Nebula,Cygnus,20.0,20 12 06,38 21 17,10.0
 NGC 6910,Inchworm Cluster,Open Cluster,Cygnus,8.0,20 23 12,40 46 42,7.4
 NGC 6946,Fireworks Galaxy,Galaxy,Cygnus,11.0,20 34 52,60 09 14,9.0
-NGC 6960,Western Veil or Witch's Broom,Supernova Remnant,Cygnus,70.0,20 45 58,30 35 42,
-NGC 6979,Pickering`s Triangle,Supernova Remnant,Cygnus,60.0,20 50 28,32 01 36,
+NGC 6960,Western Veil or Witchs Broom,Supernova Remnant,Cygnus,70.0,20 45 58,30 35 42,
+NGC 6979,Pickerings Triangle,Supernova Remnant,Cygnus,60.0,20 50 28,32 01 36,
 NGC 6992,Eastern Veil Nebula,Supernova Remnant,Cygnus,60.0,20 56 19,31 44 36,
 NGC 7000,North America Nebula,Emission Nebula,Cygnus,120.0,20 59 17,44 31 00,
 NGC 7008,Fetus Nebula,Planetary Nebula,Cygnus,1.4,21 00 33,+54 32 35,
@@ -170,7 +170,7 @@ NGC 869,Double Cluster Duo,Open Cluster,Perseus,60.0,02 19 00,+57 07 42,
 NGC 891,Outer Limits Galaxy,Galaxy,Andromeda,14.0,02 22 33,42 20 54,9.9
 OU 4,Squid Nebula or Flying Bat (SH2-129),Emission Nebula,Cepheus,60.0,21 11 47,59 57 01,
 Red Rectangle,HD 44179,Preplanetary Nebula,Monoceros,0.2,06 19 58,-10 38 15,9.0
-Rho Ophiuchi,ρ Ophiuchi,Emission Nebula,Ophiuchus,300.0,16 25 35,-23 26 50,4.6
+Rho Ophiuchi,rho Ophiuchi,Emission Nebula,Ophiuchus,300.0,16 25 35,-23 26 50,4.6
 Sh2-003,Sh2-3,Emission Nebula,Scorpius,6.0,17 12 25,-38 27 34,
 Sh2-054,Nest Nebula,Emission Nebula,Serpens,120.0,18 17 52,-11 40 58,
 Sh2-101,Tulip Nebula,Emission Nebula,Cygnus,20.0,19 59 55,35 16 36,
@@ -190,7 +190,7 @@ Sh2-223,Sh2-223,Emission Nebula,Auriga,90.0,05 17 18,42 12 00,
 Sh2-224,Sh2-224,Supernova Remnant,Auriga,60.0,05 26 36,42 55 00,
 Sh2-240,Simeis 147 or Spaghetti Nebula,Supernova Remnant,Taurus,180.0,05 41 06,28 05 00,
 Sh2-254,Mushroom Nebula,Emission Nebula,Orion,20.0,06 11 59,18 03 18,
-Sh2-261,Lower's Nebula,Emission Nebula,Orion,45.0,06 08 36,15 47 00,
+Sh2-261,Lowers Nebula,Emission Nebula,Orion,45.0,06 08 36,15 47 00,
 Sh2-301,Teapot Nebula,Emission Nebula,Canis Major,9.0,07 09 54,-18 29 53,
 Sh2-302,Snowman Nebula,Emission Nebula,Puppis,30.0,07 31 32,-16 59 10,
 Sh2-308,Gourd Nebula,Emission Nebula,Canis Major,60.0,06 54 00,-23 56 00,6.9

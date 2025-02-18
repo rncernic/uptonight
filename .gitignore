@@ -192,3 +192,5 @@ outdev
 config.yaml
 runv.sh
 /.idea
+/out
+/out
